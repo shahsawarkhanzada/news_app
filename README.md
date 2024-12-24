@@ -1,16 +1,9 @@
 # news_app
 
-A new Flutter project.
+This flutter project provides you with the daily based news around the globe. This app is designed for three global news channels, BBC, CNN, and ALJAZEERA. 
 
-## Getting Started
+I have provided the code on my github repository. Copy the code and run it in the VSCode/ Android Studio. You just need to provide your own key in the Services.dart file.
 
-This project is a starting point for a Flutter application.
+The key can be obtained by visiting the news.org website. Create an account, they will provide you a key, copy and paste that key in the Services.dart file in the api URL.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The code is easy to understand. There are three screens and each has its own code. The Services folder has functions for Api. Watch the demo video to understand the code more easily.
